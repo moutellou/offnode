@@ -1,0 +1,17 @@
+binding: user.agent=safari
+Compiling module org.myapp.App
+   Unification traversed 16830 fields and methods and 1571 types. 1539 are considered part of the current module and 1539 had all of their fields and methods traversed.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 1523 new types.
+         prelink JS size = 2534539
+         prelink sourcemap = 2534539 bytes and 73268 lines
+         postlink JS size = 2408983
+         postlink sourcemap = 2408983 bytes and 69940 lines
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 11.836s
+Linking into /home/simo/git/offnode/target/gwt/codeserver/org.myapp.App/compile-2/war/app; Writing extras to /home/simo/git/offnode/target/gwt/codeserver/org.myapp.App/compile-2/extras/app
+   Link succeeded
+   Linking succeeded -- 0.454s
+12.370s total -- Compile completed

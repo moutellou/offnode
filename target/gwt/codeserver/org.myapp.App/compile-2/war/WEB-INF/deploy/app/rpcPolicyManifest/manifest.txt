@@ -1,0 +1,3 @@
+# Module app
+# RPC service class, partial path of RPC policy file
+org.myapp.GreetingService, 076E0461F1BA0A314CB323E4B39A062F.gwt.rpc

@@ -1,0 +1,7 @@
+127.0.0.1 - - [27/Feb/2015:21:00:44 -0500] "GET / HTTP/1.1" 200 2448 http-bio-8080-exec-1 62
+127.0.0.1 - - [27/Feb/2015:21:00:44 -0500] "GET /offnode.css HTTP/1.1" 200 568 http-bio-8080-exec-2 1
+127.0.0.1 - - [27/Feb/2015:21:00:44 -0500] "GET /app/app.nocache.js HTTP/1.1" 200 2467 http-bio-8080-exec-3 2
+127.0.0.1 - - [27/Feb/2015:21:01:28 -0500] "GET / HTTP/1.1" 304 - http-bio-8080-exec-4 2
+127.0.0.1 - - [27/Feb/2015:21:01:28 -0500] "GET /offnode.css HTTP/1.1" 304 - http-bio-8080-exec-5 2
+127.0.0.1 - - [27/Feb/2015:21:01:28 -0500] "GET /app/app.nocache.js HTTP/1.1" 200 2467 http-bio-8080-exec-6 2
+127.0.0.1 - - [27/Feb/2015:21:01:31 -0500] "POST /app/greet HTTP/1.1" 200 203 http-bio-8080-exec-8 55

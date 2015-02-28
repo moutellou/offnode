@@ -32,6 +32,13 @@
         <version>3.0.1</version>
         <scope>provided</scope>
       </dependency>
+	<dependency>
+		<groupId>org.gwt-links</groupId>
+		<artifactId>gwt-links</artifactId>
+		<version>1.4.2</version>
+		 <scope>system</scope>		
+		<systemPath>${project.basedir}/lib/gwt-links-1.4.2.jar</systemPath>
+	</dependency>
     </dependencies>
   </dependencyManagement>
 

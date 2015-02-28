@@ -2,6 +2,9 @@
 <module>
   <inherits name="com.google.gwt.user.User" />
   <inherits name="com.google.gwt.user.theme.clean.Clean" />
+  <inherits name='com.orange.links.Links' />
+   <inherits name='com.google.gwt.widgetideas.WidgetIdeas' />   
+   <inherits name='com.google.gwt.libideas.LibIdeas' />
 
   <source path="" />
 
